@@ -1,0 +1,14 @@
+/Users/marencegamos/Documents/Gamos/PCCO104L.Activity.8/bin/Debug/net8.0/PCCO104L.Activity.8
+/Users/marencegamos/Documents/Gamos/PCCO104L.Activity.8/obj/Debug/net8.0/PCCO104L.Activity.8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marencegamos/Documents/Gamos/PCCO104L.Activity.8/obj/Debug/net8.0/PCCO104L.Activity.8.AssemblyInfoInputs.cache
+/Users/marencegamos/Documents/Gamos/PCCO104L.Activity.8/obj/Debug/net8.0/PCCO104L.Activity.8.AssemblyInfo.cs
+/Users/marencegamos/Documents/Gamos/PCCO104L.Activity.8/obj/Debug/net8.0/PCCO104L.Activity.8.csproj.CoreCompileInputs.cache
+/Users/marencegamos/Documents/Gamos/PCCO104L.Activity.8/obj/Debug/net8.0/PCCO104L.Activity.8.dll
+/Users/marencegamos/Documents/Gamos/PCCO104L.Activity.8/obj/Debug/net8.0/refint/PCCO104L.Activity.8.dll
+/Users/marencegamos/Documents/Gamos/PCCO104L.Activity.8/obj/Debug/net8.0/PCCO104L.Activity.8.pdb
+/Users/marencegamos/Documents/Gamos/PCCO104L.Activity.8/bin/Debug/net8.0/PCCO104L.Activity.8.deps.json
+/Users/marencegamos/Documents/Gamos/PCCO104L.Activity.8/bin/Debug/net8.0/PCCO104L.Activity.8.runtimeconfig.json
+/Users/marencegamos/Documents/Gamos/PCCO104L.Activity.8/bin/Debug/net8.0/PCCO104L.Activity.8.dll
+/Users/marencegamos/Documents/Gamos/PCCO104L.Activity.8/bin/Debug/net8.0/PCCO104L.Activity.8.pdb
+/Users/marencegamos/Documents/Gamos/PCCO104L.Activity.8/obj/Debug/net8.0/PCCO104L.Activity.8.genruntimeconfig.cache
+/Users/marencegamos/Documents/Gamos/PCCO104L.Activity.8/obj/Debug/net8.0/ref/PCCO104L.Activity.8.dll

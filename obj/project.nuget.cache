@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vDzjDxtQuhrldYgkEi4RZEdATh8UujpfmSzOfpJF9HTrT6xbaMJ+mtpNoQVYibZAaQbcY1pFgXCVT+uJY0O+4g==",
+  "success": true,
+  "projectFilePath": "/Users/marencegamos/Documents/Gamos/ConsoleApp1.fsproj",
+  "expectedPackageFiles": [
+    "/Users/marencegamos/.nuget/packages/fsharp.core/8.0.100/fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
